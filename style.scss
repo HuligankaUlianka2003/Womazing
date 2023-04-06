@@ -1,0 +1,206 @@
+main-menu{
+    display: flex;
+    justify-content: center;
+}
+
+
+.main-page{
+    width: 62px;
+height: 21px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 140%;
+/* identical to box height, or 21px */
+
+letter-spacing: 0.02em;
+
+/* CTA */
+
+color: #6E9C9F;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+list-style-type: none;
+}
+.store{
+    width: 62px;
+height: 21px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 140%;
+/* identical to box height, or 21px */
+
+letter-spacing: 0.02em;
+
+color: #000000;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+list-style-type: none;
+}
+.about-brand{
+    width: 71px;
+height: 21px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 140%;
+/* identical to box height, or 21px */
+
+letter-spacing: 0.02em;
+
+color: #000000;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 2;
+flex-grow: 0;
+list-style-type: none;
+}
+.contact{
+    width: 70px;
+height: 21px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 140%;
+/* identical to box height, or 21px */
+
+letter-spacing: 0.02em;
+
+color: #000000;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 3;
+flex-grow: 0;
+list-style-type: none;
+}
+.new-waether{
+    position: absolute;
+width: 585px;
+height: 122px;
+left: 15px;
+top: 359px;
+
+/* Заголовок h1 */
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 55px;
+line-height: 110%;
+/* or 61px */
+
+letter-spacing: 0.02em;
+
+color: #000000;
+
+}
+.title{
+    position: absolute;
+width: 385px;
+height: 84px;
+left: 251px;
+top: 519px;
+
+/* Крупный текст */
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 140%;
+/* or 28px */
+
+text-align: right;
+letter-spacing: 0.02em;
+
+color: #000000;
+
+}
+.open-store{
+    margin: 635px 47px;
+    font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 138.9%;
+/* identical to box height, or 24px */
+
+text-align: center;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 22px 50px;
+gap: 10px;
+
+width: 243px;
+height: 68px;
+
+/* CTA */
+
+background: #6E9C9F;
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+.new-collection{
+    width: 343px;
+height: 44px;
+
+/* Заголовок h2 */
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 110%;
+/* identical to box height, or 44px */
+
+letter-spacing: 0.02em;
+
+color: #000000;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
